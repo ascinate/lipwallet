@@ -21,7 +21,7 @@ export default function Footer() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <motion.a 
-                href="https://x.com/BblipProtocol"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, y: 20 }}
@@ -51,7 +51,7 @@ export default function Footer() {
               </motion.a>
 
               <motion.a 
-                href="https://x.com/BblipProtocol"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, y: 20 }}
@@ -87,7 +87,7 @@ export default function Footer() {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
           >
-            © 2025 Bblip Protocol
+            © 2026
           </motion.p>
         </div>
       </Container>
